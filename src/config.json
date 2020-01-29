@@ -1,0 +1,10 @@
+{
+    "version": false,
+    "global": {
+      "version": false,
+      "type": false
+    },
+    "appUrl": "http://localhost:20102",
+    "appName": "7Terminal0",
+    "appId": "7Terminal"
+  }
